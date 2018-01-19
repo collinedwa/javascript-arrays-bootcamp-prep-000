@@ -39,6 +39,6 @@ function removeElementFromEndOfArray(chocolateBars){
 }
 
 function accessElementInArray(chocolateBars){
-  chocolateBars.splice(3)
+  chocolateBars.splice(1, 1)
   return chocolateBars
 }
