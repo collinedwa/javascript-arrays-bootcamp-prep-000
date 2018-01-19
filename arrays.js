@@ -40,4 +40,5 @@ function removeElementFromEndOfArray(chocolateBars){
 
 function accessElementInArray(chocolateBars){
   chocolateBars.splice(3)
+  return chocolateBars
 }
