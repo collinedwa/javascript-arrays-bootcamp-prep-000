@@ -1,5 +1,4 @@
-var chocolateBars = ["snickers", 
-"hundred grand", "kitkat", "skittles"]
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
   
 var arrayAddition = "foo"
 
@@ -39,3 +38,6 @@ function removeElementFromEndOfArray(chocolateBars){
   return chocolateBars.slice(0, chocolateBars.length - 1)
 }
 
+function accessElementInArray(chocolatebars){
+  
+}
